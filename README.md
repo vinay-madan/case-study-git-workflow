@@ -1,2 +1,11 @@
-# case-study-git-workflow
-Case Study - Git Workflow
+### Case Study - Git Workflow
+
+#### Problem Statement
+
+You work as a Devops Architect in Zendriix Softwares. The company has been struggling to manage their product releases. The releases should happen on 25th of every month. Suggest a Git Workflow Architecture for this requirement. 
+Simulate this workflow, by creating a pseudo code files and branches, and upload the same to your GitHub Account 
+
+#### Solution
+
+The prescribed Git Worflow architecture for this case study is [Gitflow](CaseStudy-Git_Workflow.pdf)
+
